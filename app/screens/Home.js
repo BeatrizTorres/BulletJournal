@@ -6,6 +6,7 @@ import { Container } from '../components/Container';
 export default () => (
   <Container>
     <StatusBar translucent={false} barStyle="light-content" />
+    <Logo />
   </Container>
 );
 
